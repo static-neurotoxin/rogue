@@ -1,0 +1,19 @@
+# Autoconf
+config.h
+rogue.6
+rogue.cat
+rogue.doc
+rogue.html
+rogue.me
+Makefile
+config.log
+config.status
+*.o
+rogue
+
+# CMake
+
+# Meson
+
+# Visual Studio Code
+
